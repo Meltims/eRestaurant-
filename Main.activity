@@ -1,0 +1,37 @@
+package com.example.erestauarntfinal;
+
+import androidx.appcompat.app.AppCompatActivity;
+
+import android.os.Bundle;
+import android.widget.Button;
+import android.widget.EditText;
+import android.widget.ImageView;
+import android.widget.TextView;
+
+public class MainActivity extends AppCompatActivity {
+private EditText Email;
+private EditText Password;
+private TextView Register;
+private Button Login;
+private ImageView Logo;
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+        Email = (EditText)findViewById(R.id.etemail);
+        Password = (EditText)findViewById(R.id.etPassword);
+        Register = (TextView)findViewById(R.id.tvregister);
+        Login =(Button)findViewById(R.id.Lbutton);
+        Logo = (ImageView)findViewById(R.id.ivLogo);
+
+        android:background="@color/colorAccent";
+
+
+
+    }
+
+    //private void validate( String userEmail , String userPassword){
+    //    if(userEmail == Admin
+    }
+
+}

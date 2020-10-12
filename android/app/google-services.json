@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "232550669712",
+    "firebase_url": "https://erestaurant-bfaba.firebaseio.com",
+    "project_id": "erestaurant-bfaba",
+    "storage_bucket": "erestaurant-bfaba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232550669712:android:4b8b1b3af1654dfcdfe715",
+        "android_client_info": {
+          "package_name": "com.example.eRestaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232550669712-rs17vn0505pbrlt41ufrtvbh6tqv91ng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmZT4mv3OcoMcZ_39XpPReBs8gEOKwMmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232550669712-rs17vn0505pbrlt41ufrtvbh6tqv91ng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
